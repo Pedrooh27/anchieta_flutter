@@ -25,8 +25,6 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   // final TextEditingController _dateController = TextEditingController();
-  final TextEditingController _controller = TextEditingController();
-  String _nomeUsuario = "";
 
   @override
   Widget build(BuildContext context) {
